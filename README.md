@@ -7,7 +7,7 @@
     
   Ссылка на сертификат: https://stepik.org/cert/270383
     
-  <img src="#" width="40%" >
+  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t1-MarinaSvistunova/blob/master/img/stepik-certificate-2159-a4ab386-1.png" width="40%" >
 
 1.2.	Создание диаграммы Ганта для организации проектной деятельности по разработке корпоративного сайта и анализ потенциальных рисков. Создание отчета-репозитория в GitHub, оформление с использованием разметки Markdown.
 
