@@ -9,11 +9,11 @@
   
   Ссылка на сертификат: https://stepik.org/cert/270383
     
-  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t1-MarinaSvistunova/blob/master/img/stepik-certificate-2159-a4ab386-1.png" width="40%" >
+  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t1-MarinaSvistunova/blob/master/img/stepik-certificate-2159-a4ab386-1.png" width="50%" >
 
 1.2.	Создание диаграммы Ганта для организации проектной деятельности по разработке корпоративного сайта и анализ потенциальных рисков. Создание отчета-репозитория в GitHub, оформление с использованием разметки Markdown.
 
-  <img src="#" width="40%" >
+  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t1-MarinaSvistunova/blob/master/img/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D0%93%D0%B0%D0%BD%D1%82%D0%B0.png" width="60%" >
 
   * неправильная оценка задачи исполнителем;
   * риски постановки технического задания:
